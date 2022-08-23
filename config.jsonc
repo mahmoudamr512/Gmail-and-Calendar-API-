@@ -1,0 +1,17 @@
+// DateType is a type which I made to allow different dates
+// DAYS :to use 1d, 2d, #d 
+// MONTHS :to get all emails back to 1m, 2m, 3m,etc.
+// DAY_MONTH_YEAR to format it like "22-05-2001"
+// DAY_MONTH_YEAR_SLASH to format it like "22/05/2001"
+// MONTH_DAY_YEAR = to format it like "05=12-2001"
+// MONTH_DAY_YEAR_SLASH to format it like "05/22/2001"
+// YEAR_MONTH_DAY to format it like "2001-05-22"
+// YEAR_MONTH_DAY_SLASH to format it like "2001/05/22"
+// YEAR_DAY_MONTH to format it like "2001-22-05"
+// YEAR_DAY_MONTH_SLASH to format it like "2001/22/05"
+{
+    "email": "engineer.mahmoudamr@gmail.com",
+    "date": "4d",
+    "csvName": "emailsExport",
+    "dateType": "DAYS"
+}
